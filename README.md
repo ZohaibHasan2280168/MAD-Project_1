@@ -20,7 +20,7 @@ This is a simple mobile application showcasing three primary screens: **Home**, 
 - Each item includes details like name, price, and image.
 - May include options like filtering, sorting, and adding to cart.
 
-![Product Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/tree/main/screenshots/product.png)
+![Product Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/blob/main/screenshots/product.png)
 
 ---
 
@@ -30,7 +30,7 @@ This is a simple mobile application showcasing three primary screens: **Home**, 
 - Includes fields like Name, Email, Message.
 - May include contact numbers, location map, or links to social media.
 
-![Contact Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/tree/main/screenshots/contact.png)
+![Contact Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/blob/main/screenshots/contact.png)
 
 ---
 
