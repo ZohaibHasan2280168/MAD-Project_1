@@ -10,7 +10,7 @@ This is a simple mobile application showcasing three primary screens: **Home**, 
 - Navigation to other parts of the app.
 - May include highlights, banners, or announcements.
 
-![Home Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/tree/main/screenshots/home.PNG)
+![Home Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/blob/main/screenshots/home.PNG)
 
 ---
 
