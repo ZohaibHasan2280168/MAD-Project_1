@@ -10,7 +10,7 @@ This is a simple mobile application showcasing three primary screens: **Home**, 
 - Navigation to other parts of the app.
 - May include highlights, banners, or announcements.
 
-![Home Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/raw/main/screenshots/home.png)
+![Home Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/main/screenshots/home.png)
 
 ---
 
@@ -20,7 +20,7 @@ This is a simple mobile application showcasing three primary screens: **Home**, 
 - Each item includes details like name, price, and image.
 - May include options like filtering, sorting, and adding to cart.
 
-![Product Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/raw/main/screenshots/product.png)
+![Product Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/main/screenshots/product.png)
 
 ---
 
@@ -30,13 +30,14 @@ This is a simple mobile application showcasing three primary screens: **Home**, 
 - Includes fields like Name, Email, Message.
 - May include contact numbers, location map, or links to social media.
 
-![Contact Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/raw/main/screenshots/contact.png)
+![Contact Screen](https://github.com/ZohaibHasan2280168/MAD-Project_1/main/screenshots/contact.png)
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone the repository
+1. Clone the repository  
+   `git clone https://github.com/ZohaibHasan2280168/MAD-Project_1.git`
 2. Open the project in your preferred IDE
 3. Install dependencies if needed
 4. Run on emulator or physical device
